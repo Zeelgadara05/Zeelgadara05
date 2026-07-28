@@ -255,7 +255,7 @@ while (!success)
 
 ## Cyber Animation
 <p align="center">
-<img src="assets/[cyber.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW13MTZjazc1ZXl0d2djMXR5anhmNThvaWpxeG1qbHRyNmNybmd5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif)" width="750">
+<img src="assets/cyber.mp4" width="750">
 </p>
 
 ## Terminal GIF
