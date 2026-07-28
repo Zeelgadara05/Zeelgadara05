@@ -97,9 +97,9 @@ Never Stop Improving.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeelgadara05&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeelgadara05&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -109,7 +109,7 @@ Never Stop Improving.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeelgadara05&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -119,7 +119,7 @@ Never Stop Improving.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeelgadara05&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -129,7 +129,7 @@ Never Stop Improving.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Zeelgadara05&theme=algolia&margin-w=15&no-frame=true"/>
 
 </p>
 
@@ -191,7 +191,7 @@ DSA
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeelgadara05&theme=tokyonight"/>
 
 </p>
 
@@ -201,7 +201,7 @@ DSA
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Zeelgadara05/Zeelgadara05/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
