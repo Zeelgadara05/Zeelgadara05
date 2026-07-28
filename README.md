@@ -237,3 +237,21 @@ while (!success)
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:6C63FF,100:00FF88"/>
 
 </div>
+
+## Banner
+<p align="center">
+<img src="assets/banner.png" width="100%">
+</p>
+
+## Cyber Animation
+<p align="center">
+<img src="assets/cyber.gif" width="700">
+</p>
+
+## Terminal GIF
+<p align="center">
+<img src="assets/terminal.gif" width="700">
+</p>
+
+## Devider
+<img src="assets/divider.svg">
