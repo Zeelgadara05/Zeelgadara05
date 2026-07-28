@@ -239,13 +239,23 @@ while (!success)
 </div>
 
 ## Banner
-<p align="center">
+<div align="center">
+
 <img src="assets/banner.png" width="100%">
-</p>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Cybersecurity+Enthusiast;Networking+Learner;Full+Stack+Developer;Linux+%7C+Kali+Linux;Always+Building+Something+New"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Zeelgadara05&style=for-the-badge&color=blueviolet">
+
+</div>
 
 ## Cyber Animation
 <p align="center">
-<img src="assets/cyber.gif" width="700">
+<img src="assets/[cyber.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW13MTZjazc1ZXl0d2djMXR5anhmNThvaWpxeG1qbHRyNmNybmd5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif)" width="750">
 </p>
 
 ## Terminal GIF
