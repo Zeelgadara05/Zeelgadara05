@@ -255,7 +255,7 @@ while (!success)
 
 ## Cyber Animation
 <p align="center">
-<img src="assets/cyber.mp4" width="750">
+<img src="assets/cyber.gif" width="750">
 </p>
 
 ## Terminal GIF
