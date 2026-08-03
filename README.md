@@ -87,7 +87,7 @@ Never Stop Improving.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,git,github,vscode,linux,bash,postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,nodejs,git,github,vscode,linux"/>
 
 </p>
 
